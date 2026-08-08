@@ -175,7 +175,7 @@ This research and implementation were completed as a Bachelor's Degree Graduatio
 * **Institution:** Niğde Ömer Halisdemir University
 * **Department:** Faculty of Engineering, Department of Computer Engineering
 * **Project Period:** September 2025 – June 2026
-* **Contact:** [seroglu076@gmail.com](https://www.google.com/search?q=mailto%3Aseroglu076%40gmail.com) | [LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/sedat-eroglu)
+* **Contact:** [seroglu076@gmail.com](https://www.google.com/search?q=mailto%3Aseroglu076%40gmail.com) | [LinkedIn Profile]([https://www.google.com/search?q=https://www.linkedin.com/in/sedat-eroglu](https://www.linkedin.com/in/sedat-eroğlu-1a1948219?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 
 ```
 
