@@ -1,0 +1,6 @@
+train: C:/Users/serog/OneDrive/Masaüstü/Hepsi/tez/dataset/train/images
+val: C:/Users/serog/OneDrive/Masaüstü/Hepsi/tez/dataset/valid/images
+test: C:/Users/serog/OneDrive/Masaüstü/Hepsi/tez/dataset/test/images
+
+nc: 4
+names: ['bus', 'car', 'truck', 'van']
